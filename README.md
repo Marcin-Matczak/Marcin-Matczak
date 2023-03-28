@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Marcin.
 - 👀 I’m interested in frontend technologies.
-- 🌱 I’m currently learning JavaScript.
+- 🌱 I’m currently learning JavaScript and React.
 - 💞️ I’m looking to collaborate with a potential employer :)
 - 📫 How to reach me : https://marcin-matczak.github.io/my_profile_website/src/index.html
 
